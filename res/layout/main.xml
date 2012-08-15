@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+     <Button
+        android:id="@+id/buttonNewGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TextNewGame" 
+        android:onClick="button_NewGame_Click"/>
+
+
+
+
+
+    <Button
+        android:id="@+id/buttonLoadGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TextSaveGame" />
+
+
+
+    <Button
+        android:id="@+id/buttonSaveGame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TextLoadGame" />
+
+
+
+
+
+    <Button
+        android:id="@+id/buttonExit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TextButtonExit" />  
+
+</LinearLayout>
