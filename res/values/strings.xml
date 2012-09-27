@@ -10,6 +10,6 @@
     <string name="TextButtonExit">Exit</string>
     <string name="tCountry">Country</string>
     <string name="tPerson">Person</string>
-    <string name="tComplexity">Complexity</string>
+    <string name="tComplexity">Complexity test 123456</string>
     <string name="tCreateNewWorld">Create new world test....!</string>
 </resources>
